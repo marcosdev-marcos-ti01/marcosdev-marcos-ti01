@@ -4,6 +4,7 @@
 # Título 1
 *itálico* _itálico_
 **Negrito** __Negrit__
+___Negrito e itálico___
 ## Título 2
 ### Título 3
 #### Título 4

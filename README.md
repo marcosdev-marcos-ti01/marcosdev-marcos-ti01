@@ -2,6 +2,7 @@
 
 <!-- Cabeçalhos -->
 # Título 1
+*itálico* _itálico_
 ## Título 2
 ### Título 3
 #### Título 4

@@ -6,6 +6,9 @@
 **Negrito** __Negrit__
 ___Negrito e itálico___
 ## Título 2
+- Lista 1
+- Lista 2
+  - Sublista
 ### Título 3
 #### Título 4
 ##### Título 5

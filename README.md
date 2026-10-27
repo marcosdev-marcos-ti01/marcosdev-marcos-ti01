@@ -20,6 +20,11 @@ ___Negrito e itálico___
 ```system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();```
 ##### Título 5
 > Texto da Citação
+| Cabeçalho 1| Cabeçalho 2 |
+|----------- |------------ |
+| Texto 1    | Texto 2     |
+| Texto 3    | Texto 4     |
+
 ###### Título 6
 
 
